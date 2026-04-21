@@ -14,12 +14,13 @@
 
 Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast. I am also intersted in botany, ecology, urban planning, and sustainability.
 
-<img align="right" alt="coastal plain" src="https://bplant.org/photos/u/7e370167f889845d7e091ef1e763c44e-640.jpg">
+<img align="right" width="550" height="500" alt="7e370167f889845d7e091ef1e763c44e-640" src="https://github.com/user-attachments/assets/348846e8-c5b4-46b1-8f7e-4c40e370940e" />
 
 **Personal Matters:**
 
 - 🎓 I’m currently earning my Masters in Information Systems Technololgy
-- 🌱 I’m currently learning how to use QGIS for data analysis.
+- 🌱 I’m currently learning how to use QGIS.
+
 - 💬 Ask me about anything , will answer if I can.
 - 📫 How to reach me: LinkedIn or Email
 - ⚡ Check out my [Blog Here](https://schi-427.github.io/ScarletSage.github.io/blog/)
