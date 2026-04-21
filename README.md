@@ -28,7 +28,10 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 
 #### Most recent blog posts:
 <!-- BLOG-POST-LIST:START -->
-
+- [Local Greenspace Access Project](https://schi-427.github.io/ScarletSage.github.io/blog/greenspace-map-1/)
+- [My First Blog Post](https://schi-427.github.io/ScarletSage.github.io/blog/first-post/)
+- [Testing Post Format](https://schi-427.github.io/ScarletSage.github.io/blog/testing-post-format/)
+- [IST 661 Final Project](https://schi-427.github.io/ScarletSage.github.io/blog/ist-661-final-project/)
 <!-- BLOG-POST-LIST:END -->
 
 
