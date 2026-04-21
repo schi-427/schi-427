@@ -35,8 +35,8 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 <!-- BLOG-POST-LIST:END -->
 
 #### 📚 Book(s) Im Reading:
-- A Tale for the Time Being by Ruth Ozeki
-- The Permaculture Garden: A Practical Approach to Year-round Harvests by Huw Richards
+- *A Tale for the Time Being* by Ruth Ozeki
+- *The Permaculture Garden: A Practical Approach to Year-round Harvests* by Huw Richards
 
 **Languages and Tools:**
 
