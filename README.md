@@ -2,8 +2,6 @@
 
 <br/>
 
-
-
 <a href="https://www.linkedin.com/in/steven-childs-10b7b086/">
 <img align="left" alt="Steven childs" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,8 +14,9 @@
 
 Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast. I am also intersted in botany, ecology, urban planning, and sustainability.
 
+<img align="right" alt="coastal plain" src="https://bplant.org/photos/u/7e370167f889845d7e091ef1e763c44e-640.jpg">
 
-**Personal Stuffs:**
+**Personal Matters:**
 
 - 🎓 I’m currently earning my Masters in Information Systems Technololgy
 - 🌱 I’m currently learning how to use QGIS for data analysis.
