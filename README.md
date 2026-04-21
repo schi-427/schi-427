@@ -1,4 +1,4 @@
-### Hello! It's [schi427!](https://schi-427.github.io/ScarletSage.github.io/)
+### Hello! It's [schi-427!](https://schi-427.github.io/ScarletSage.github.io/)
 
 <br/>
 
@@ -22,8 +22,8 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 - 🎓 I’m currently earning my Masters in Information Systems Technololgy
 - 🌱 I’m currently learning how to use QGIS for data analysis.
 - 💬 Ask me about anything , will answer if I can.
-- 📫 How to reach me: Linkedin of Email
-- ⚡ Check out my recent [Blogs](https://schi-427.github.io/ScarletSage.github.io/blog/)
+- 📫 How to reach me: LinkedIn or Email
+- ⚡ Check out my [Blog Here](https://schi-427.github.io/ScarletSage.github.io/blog/)
 
 
 #### Most recent blog posts:
