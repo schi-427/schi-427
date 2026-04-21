@@ -34,6 +34,9 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 - [IST 661 Final Project](https://schi-427.github.io/ScarletSage.github.io/blog/ist-661-final-project/)
 <!-- BLOG-POST-LIST:END -->
 
+#### 📚 Book(s) Im Reading:
+- A Tale for the Time Being by Ruth Ozeki
+- The Permaculture Garden: A Practical Approach to Year-round Harvests by Huw Richards
 
 **Languages and Tools:**
 
