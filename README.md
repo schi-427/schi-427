@@ -28,6 +28,7 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 
 #### Most recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on Urban Planning](https://schi-427.github.io/ScarletSage.github.io/blog/urban-planning-1/)
 - [Conway Council Search Update](https://schi-427.github.io/ScarletSage.github.io/blog/greenspace-map-2/)
 - [Greenspace Project Update](https://schi-427.github.io/ScarletSage.github.io/blog/greenspace-map-2/)
 - [Local Greenspace Access Project](https://schi-427.github.io/ScarletSage.github.io/blog/greenspace-map-1/)
