@@ -38,8 +38,9 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 <!-- BLOG-POST-LIST:END -->
 
 #### 📚 Book(s) Im Reading:
+- *The Burgess Boys* by Elizabeth Strout
+### Recently Finished
 - *A Tale for the Time Being* by Ruth Ozeki
-- *The Permaculture Garden: A Practical Approach to Year-round Harvests* by Huw Richards
 
 **Languages and Tools:**
 
