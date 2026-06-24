@@ -39,8 +39,9 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 <!-- BLOG-POST-LIST:END -->
 
 #### 📚 Book(s) Im Reading:
-- *The Burgess Boys* by Elizabeth Strout
+- *Boxers and Saints* by Gene Luen Yang, colored by Lark Pien
 ### Recently Finished
+- *The Burgess Boys* by Elizabeth Strout
 - *A Tale for the Time Being* by Ruth Ozeki
 
 **Languages and Tools:**
