@@ -28,6 +28,7 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 
 #### Most recent blog posts:
 <!-- BLOG-POST-LIST:START -->
+- [Nonprofit Thoughts Update](https://schi-427.github.io/ScarletSage.github.io/blog/nonprofit-thoughts-2/)
 - [Nonprofit thoughts](https://schi-427.github.io/ScarletSage.github.io/blog/nonprofit-thoughts-1/)
 - [Thoughts on Urban Planning](https://schi-427.github.io/ScarletSage.github.io/blog/urban-planning-1/)
 - [Conway Council Search Update](https://schi-427.github.io/ScarletSage.github.io/blog/greenspace-map-2/)
