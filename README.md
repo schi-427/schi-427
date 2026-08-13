@@ -41,8 +41,9 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 <!-- BLOG-POST-LIST:END -->
 
 #### 📚 Book(s) Im Reading:
-- *Claire of the Sea Light* by Edwidge Danticat
+- *The Last Policeman* by Ben H. Winters
 ### Recently Finished
+- *Claire of the Sea Light* by Edwidge Danticat
 - *Claire DeWitt and the City of the Dead* by Sara Gran
 - *Boxers and Saints* by Gene Luen Yang, colored by Lark Pien
 - *The Burgess Boys* by Elizabeth Strout
