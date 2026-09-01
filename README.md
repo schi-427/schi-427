@@ -41,8 +41,10 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 <!-- BLOG-POST-LIST:END -->
 
 #### 📚 Book(s) Im Reading:
-- *The Last Policeman* by Ben H. Winters
+- *Fever* by Mary Beth Keane
 ### Recently Finished
+- *The Last Policeman* by Ben H. Winters
+- *Still Life* by Louise Penny
 - *Claire of the Sea Light* by Edwidge Danticat
 - *Claire DeWitt and the City of the Dead* by Sara Gran
 - *Boxers and Saints* by Gene Luen Yang, colored by Lark Pien
