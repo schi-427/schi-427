@@ -44,6 +44,7 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 - *Fosse* by Sam Wasson
 - *Fever* by Mary Beth Keane (on hold)
 ### Recently Finished
+- *Gris Grimly's Frankenstein* by Gris Grimly, Mary Shelley
 - *The Last Policeman* by Ben H. Winters
 - *Still Life* by Louise Penny
 - *Claire of the Sea Light* by Edwidge Danticat
