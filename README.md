@@ -41,7 +41,8 @@ Hello, my name is Steven. I'm a Software Developer and Data Analysis enthusiast.
 <!-- BLOG-POST-LIST:END -->
 
 #### 📚 Book(s) Im Reading:
-- *Fever* by Mary Beth Keane
+- *Fosse* by Sam Wasson
+- *Fever* by Mary Beth Keane (on hold)
 ### Recently Finished
 - *The Last Policeman* by Ben H. Winters
 - *Still Life* by Louise Penny
